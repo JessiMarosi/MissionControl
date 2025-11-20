@@ -1,12 +1,11 @@
 # Mission Control Portfolio
+---
 
 ![Space Engineering](https://img.shields.io/badge/Space%20Engineering-Expert-blue)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity/IAM-Advanced-red)
 ![Data Streaming](https://img.shields.io/badge/Data%20Streaming-Intermediate-orange)
 ![Full-Stack](https://img.shields.io/badge/Full%20Stack-Advanced-green)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
-
----
 
 This repository serves as a comprehensive portfolio demonstrating my expertise in **space engineering, cybersecurity/IAM, data streaming, and full-stack development**. It contains a curated collection of **documentation, setup guides, SOPs, and digital mockups** developed for the Mission Control project, showcasing my ability to organize complex technical information effectively.
 
@@ -47,7 +46,7 @@ This repository serves as a **centralized portfolio** reflecting both my technic
 ---
 
 ## Example Mockup
-![Workflow Mockup](Mockups/Example_Mockup.png)
+![Workflow Mockup](Mockups/Example_Mockup.png)  
 *Sample workflow mockup from the Mission Control project.*
 
 ---
