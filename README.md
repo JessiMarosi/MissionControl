@@ -1,9 +1,5 @@
 # MissionControlPortfolio
-Portfolio demonstrating skills in space engineering, cyber/IAM security, data streaming, and full-stack development.
-
-# Mission Control Portfolio
-
-This repository contains documentation, mockups, and setup guides for the Mission Control project.
+Portfolio demonstrating skills in space engineering, cyber/IAM security, data streaming, and full-stack development. This repository contains documentation, mockups, and setup guides for the Mission Control project.
 
 ## Folder Structure
 - `Setup_Core_Tools/` – Guides for environment setup and tools.
