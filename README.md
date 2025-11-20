@@ -6,7 +6,11 @@
 ![Full-Stack](https://img.shields.io/badge/Full%20Stack-Advanced-green)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
+---
+
 This repository serves as a comprehensive portfolio demonstrating my expertise in **space engineering, cybersecurity/IAM, data streaming, and full-stack development**. It contains a curated collection of **documentation, setup guides, SOPs, and digital mockups** developed for the Mission Control project, showcasing my ability to organize complex technical information effectively.
+
+---
 
 ## Table of Contents
 - [Folder Structure](#folder-structure)
@@ -15,15 +19,21 @@ This repository serves as a comprehensive portfolio demonstrating my expertise i
 - [Example Mockup](#example-mockup)
 - [About the Author](#about-the-author)
 
+---
+
 ## Folder Structure
 - **Setup_Core_Tools/** – Guides for environment setup, software installation, and development tools.  
 - **Configuration_Secrets/** – Documentation for environment variables, secrets management, and configuration best practices.  
 - **SOPs_Manuals/** – Standard operating procedures, user manuals, and operational guidelines.  
 - **Mockups/** – Visual mockups of workflows, dashboards, and process designs for clear communication of concepts.
 
+---
+
 ## Notes
 - Files are systematically organized to enhance clarity and ease of navigation.  
 - This repository highlights my skills in **documentation, workflow design, and systems analysis**, providing a professional showcase of my work.
+
+---
 
 ## Portfolio Highlights
 The Mission Control Portfolio demonstrates my ability to:  
@@ -34,9 +44,13 @@ The Mission Control Portfolio demonstrates my ability to:
 
 This repository serves as a **centralized portfolio** reflecting both my technical capabilities and attention to detail in documentation and process design.
 
+---
+
 ## Example Mockup
 ![Workflow Mockup](Mockups/Example_Mockup.png)
 *Sample workflow mockup from the Mission Control project.*
+
+---
 
 ## About the Author
 **Jessica Marosi** is a professional with extensive experience in **systems analysis, cybersecurity, workflow design, and full-stack development**. This portfolio reflects her ability to clearly communicate complex technical processes, create actionable documentation, and design efficient workflows. Her work emphasizes organization, clarity, and professional presentation, making it suitable for both educational and professional review.
