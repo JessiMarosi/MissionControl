@@ -1,15 +1,23 @@
-# MissionControlPortfolio
-Portfolio demonstrating skills in space engineering, cyber/IAM security, data streaming, and full-stack development. This repository contains documentation, mockups, and setup guides for the Mission Control project.
+# Mission Control Portfolio
+
+This repository serves as a comprehensive portfolio demonstrating my expertise in **space engineering, cybersecurity/IAM, data streaming, and full-stack development**. It contains a curated collection of **documentation, setup guides, SOPs, and digital mockups** developed for the Mission Control project, showcasing my ability to organize complex technical information effectively.
 
 ## Folder Structure
-- `Setup_Core_Tools/` – Guides for environment setup and tools.
-- `Configuration_Secrets/` – Documentation for environment variables and secrets.
-- `SOPs_Manuals/` – Standard operating procedures and user manuals.
-- `Mockups/` – Digital mockups of workflows and dashboards.
+- **Setup_Core_Tools/** – Guides for environment setup, software installation, and development tools.  
+- **Configuration_Secrets/** – Documentation for environment variables, secrets management, and configuration best practices.  
+- **SOPs_Manuals/** – Standard operating procedures, user manuals, and operational guidelines.  
+- **Mockups/** – Visual mockups of workflows, dashboards, and process designs for clear communication of concepts.
 
 ## Notes
-- Files are organized by category for clarity.
-- This repository serves as a portfolio showcase of my documentation and systems analysis work.
+- Files are systematically organized to enhance clarity and ease of navigation.  
+- This repository highlights my skills in **documentation, workflow design, and systems analysis**, providing a professional showcase of my work.
 
-## Showcases
-The Mission Control Portfolio showcases my professional documentation, workflow design, and systems analysis capabilities. It includes setup guides, SOPs, mockups, and configuration documentation, demonstrating my ability to clearly and effectively organize complex information. This repository serves as a centralized portfolio for projects in space engineering, cybersecurity/IAM, data streaming, and full-stack development.
+## Portfolio Highlights
+The Mission Control Portfolio demonstrates my ability to:  
+- Create structured, accessible, and professional technical documentation.  
+- Design clear workflows and visual mockups that communicate complex processes.  
+- Organize and manage configuration and setup guides for efficient project execution.  
+- Apply multidisciplinary knowledge across space engineering, cybersecurity, data streaming, and full-stack development.  
+
+This repository serves as a **centralized portfolio** reflecting both my technical capabilities and my attention to detail in documentation and process design.
+
