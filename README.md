@@ -21,3 +21,5 @@ The Mission Control Portfolio demonstrates my ability to:
 
 This repository serves as a **centralized portfolio** reflecting both my technical capabilities and my attention to detail in documentation and process design.
 
+## About the Author
+**Jessica Marosi** is a professional with extensive experience in **systems analysis, cybersecurity, workflow design, and full-stack development**. This portfolio reflects her ability to clearly communicate complex technical processes, create actionable documentation, and design efficient workflows. Her work emphasizes organization, clarity, and professional presentation, making it suitable for both educational and professional review.
