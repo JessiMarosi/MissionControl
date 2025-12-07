@@ -1,6 +1,6 @@
 # Mission Control
 
-> ⚠️ **Mission Control Portfolio is currently under construction.**  
+> ⚠️ **Mission Control is currently under construction.**  
 > Core modules, documentation, and artifacts are being staged for public release.  
 > This repo will showcase aerospace-grade IAM, telemetry, and full-stack orchestration once finalized.
 
