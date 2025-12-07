@@ -1,5 +1,9 @@
 # Mission Control Portfolio
 
+> ⚠️ **Mission Control Portfolio is currently under construction.**  
+> Core modules, documentation, and artifacts are being staged for public release.  
+> This repo will showcase aerospace-grade IAM, telemetry, and full-stack orchestration once finalized.
+
 ![Space Engineering](https://img.shields.io/badge/Space%20Engineering-Expert-blue)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity/IAM-Advanced-red)
 ![Data Streaming](https://img.shields.io/badge/Data%20Streaming-Intermediate-orange)
