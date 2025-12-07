@@ -1,4 +1,4 @@
-# Mission Control Portfolio
+# Mission Control
 
 > ⚠️ **Mission Control Portfolio is currently under construction.**  
 > Core modules, documentation, and artifacts are being staged for public release.  
